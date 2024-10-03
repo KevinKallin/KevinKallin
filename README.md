@@ -5,7 +5,7 @@
 
 - 🔭 My latest project in school [Train-booking-system](https://github.com/TH2103-Grupp-1/Train-booking-system)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently developing my skills in .NET and Angular
 
 - 📫 How to reach me **kevin.kallin@hotmail.se**
 
